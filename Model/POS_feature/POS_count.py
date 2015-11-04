@@ -1,4 +1,4 @@
-# Store your tweets into ark-tweet-nlp-0.3.2/example/example_tweets.txt
+# Store your tweets into ark-tweet-nlp-0.3.2/examples/example_tweets.txt
 # Head to directory ark-tweet-nlp-0.3.2 run ./runTagger.sh example/example_tweets.txt then we get the result file output.txt
 # Second run this file: python POS_count.py
 # The result will print in the terminal and stored in POS_result.csv
